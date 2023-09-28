@@ -1,2 +1,1 @@
-# Strivers-A2Z-DSA
-# Strivers-A2Z-DSA
+# This repository contains my DSA Practise files
